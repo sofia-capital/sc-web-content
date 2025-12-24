@@ -17,7 +17,7 @@ They all have free plans, which are really quite complete and you can work with 
 
 ## TIKR
 
-**URL**: https://www.tikr.com/es
+**URL**: https://www.tikr.com
 
 **Purpose**: allows you to see with accuracy the accounting of the company we are analyzing. Here we need to clarify a bit, each company that is available on the stock market has to present its accounting in an open manner, which means you can get the company's accounting for free. So why use Tikr? You'll see it with an example in the Advanced Module, when I explain how to get the accounting data necessary for analysis. 
 
