@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+# Sitemap - Hugo generará automáticamente la URL correcta
+# Asegúrate de actualizar esta URL con tu dominio real
+Sitemap: https://sofiacapital.org/sitemap.xml
+
