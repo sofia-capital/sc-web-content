@@ -21,10 +21,10 @@ If you pass it on to your friends, family, or close people, you will be helping 
 
 ## Content Editing
 
-You could help with correction, expansion, and translation of content. 
+You can assist with the correction, expansion, and translation of the content (including text and images).
 
 {{< callout type="warning" >}}
- I am currently working on a guide that explains step by step how you could help with each of the options.
+ I am currently searching for an accessible and convenient way for everyone to participate, since performing Forks and Pull Requests through GitHub is not a feasible option for all users.
 {{< /callout >}}
 
 ## Marketing or Design
@@ -33,11 +33,11 @@ I am not a designer, nor do I have experience in marketing, so any help in this 
 
 ## Financial Support
 
-Financial help is also valuable and greatly appreciated. However, I have put it last because I understand that not everyone can donate, but they can collaborate in many other equally important ways.
+Financial help is also valuable and greatly appreciated. However, I have put it last because I understand that not everyone can donate, but everyone can collaborate in many other equally important ways.
 
 ## Do you have another idea?
 
-This is everything I can think of for now, but if you think there is something else that can be improved, added, or corrected, don't hesitate to write to me.
+This is everything I can think of for now, but if you think there is something else that you can help with, don't hesitate to write to me.
 
 I am open to suggestions and delighted to receive any kind of contribution.
 

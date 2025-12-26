@@ -21,10 +21,10 @@ Si se lo pasas a tus amigos, familia o gente cercana, estarás ayudando a que el
 
 ## Edición de Contenido
 
-Podrías ayudar en la corrección, ampliación y traducción del contenido. 
+Podrías ayudar en la corrección, ampliación y traducción del contenido (ya sea texto o imagenes). 
 
 {{< callout type="warning" >}}
- Actualmente estoy trabajando en una guía que explique paso a paso cómo podrías ayudar con cada una de las opciones.
+ Actualmente estoy buscando una forma accesible y cómoda para que todos puedan contribuir, ya que hacer Forks y Pull Requests a través de GitHub no es una opción viable para todos.
 {{< /callout >}}
 
 ## Marketing o diseño
@@ -37,7 +37,7 @@ La ayuda económica también es valiosa y se agradece mucho. Sin embargo, la he 
 
 ## ¿Tienes otra idea?
 
-Esto es todo lo que se me ocurre por el momento, pero si crees que hay algo más que se puede mejorar, añadir o corregir, no dudes en escribirme.
+Esto es todo lo que se me ocurre por el momento, pero si crees que puedes ayudarme de otra manera, no dudes en escribirme.
 
 Estoy abierto a sugerencias y encantado de recibir cualquier tipo de aportación.
 
