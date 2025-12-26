@@ -16,8 +16,6 @@ Quiero ser completamente transparente: no soy analista financiero, no estudié e
 
 Como cualquier persona, puedo equivocarme, por este motivo si ves algo que no es coherente o mal formulado te pido que me corrijas. 
 
-He intentado estructurar los conocimientos que utilizo en mi día a día para que otros, que como yo estan empezando desde cero, tengan un mejor punto de partida.
-
 Sofía Capital no es un curso, ni pretende serlo. Es una recopilación de notas y apuntes personales que sentí la necesidad de compartir. Si este contenido puede ayudarte a entender mejor las finanzas, a cuestionar promesas irreales y a tomar decisiones más informadas, entonces el proyecto cumple su propósito.
 
 ## Este Proyecto Te necesita

@@ -16,8 +16,6 @@ I want to be completely transparent: I am not a financial analyst, I did not stu
 
 Like anyone, I can make mistakes, so if you see something that is not coherent or poorly formulated, I ask you to correct me. 
 
-I have tried to structure the knowledge I use in my day-to-day life so that others, who like me are starting from scratch, have a better starting point.
-
 Sofia Capital is not a course, nor does it pretend to be one. It is a compilation of personal notes and materials that I felt the need to share. If this content can help you better understand finance, question unrealistic promises, and make more informed decisions, then the project fulfills its purpose.
 
 ## This Project Needs You
