@@ -13,18 +13,19 @@ En este articulo describire los porcentajes de beneficios que aparecen en la pag
 
 ## ¿De que porcentajes estamos hablando?
 
-NASDAQ y MSCI World
+ - **NASDAQ +464%**
+ - **MSCI World +213%**
 
 ![](/images/BLOG/P1/ES-Blog-Datos-utilizados-ejemplo-porcentual-NASDAQ-MSCI.png)
 
-Acciones diversas
+**Acciones diversas**
 
 ![](/images/BLOG/P1/ES-Blog-Datos-utilizados-ejemplo-porcentual-acciones.png)
 
 
-## ¿Cómo lo consigues?
+## ¿Cómo lo compruebas por ti mismo?
 
-Tendra que utilizar la herramienta Koyfin (https://app.koyfin.com), una vez dentro tendras que buscar el ticker correcto. Utilizaremos la bolsa de Suiza por disponer de un histórico de 10 años.
+Tendras que utilizar la herramienta Koyfin (https://app.koyfin.com), una vez registrado hay que utilizar el ticker correcto, adicionalmente utilizaremos la bolsa (el mercado) de Suiza por disponer de un histórico de 10 años.
 
 - Nasdaq 100 (últimos 10 años)
   - Ticker: CSNDX – iShares NASDAQ100 (Bolsa de valores de Suiza)

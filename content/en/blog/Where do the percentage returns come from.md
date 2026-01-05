@@ -13,18 +13,19 @@ In this article I will describe the percentage returns that appear on the main p
 
 ## What percentages are we talking about?
 
-NASDAQ and MSCI World
+ - **NASDAQ +464%**
+ - **MSCI World +213%**
 
 ![](/images/BLOG/P1/ES-Blog-Datos-utilizados-ejemplo-porcentual-NASDAQ-MSCI.png)
 
-Various stocks
+**Various stocks**
 
 ![](/images/BLOG/P1/ES-Blog-Datos-utilizados-ejemplo-porcentual-acciones.png)
 
 
-## How do you get it?
+## How can you check it yourself?
 
-You will need to use the Koyfin tool (https://app.koyfin.com), once inside you will need to search for the correct ticker. We will use the Swiss stock exchange because it has a 10-year history.
+You’ll need to use the Koyfin tool (https://app.koyfin.com). Once you’re registered, make sure to use the correct ticker. In addition, we’ll use the Swiss stock exchange (the market), as it provides a 10-year historical data series.
 
 - Nasdaq 100 (last 10 years)
   - Ticker: CSNDX – iShares NASDAQ100 (Swiss Stock Exchange)
