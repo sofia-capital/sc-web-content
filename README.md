@@ -2,12 +2,13 @@
 
 <div align="center">
 
-![Sofia Capital Logo](static/images/LOGOTIPO_SOFIA_CAPITAL.png)
+![Sofia Capital Logo](static/images/LOGOTIPO_SOFIA_CAPITAL_EN.png)
 
 **An Open Educational Resources and Open Knowledge project focused on finance**
 
-[![License](https://img.shields.io/badge/license-Open%20Knowledge-blue.svg)](LICENSE)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Hugo](https://img.shields.io/badge/Built%20with-Hugo-orange.svg)](https://gohugo.io)
+[![Hextra](https://img.shields.io/badge/Theme-Hextra-blue.svg)](https://github.com/imfing/hextra)
 
 </div>
 
@@ -15,21 +16,25 @@
 
 ## 📖 What is Sofia Capital?
 
-**Sofia Capital** is an Open Educational Resources (OER) and Open Knowledge project dedicated to demystifying the world of finance. Our mission is to combat financial misinformation and empower individuals with the knowledge needed to make informed investment decisions.
+**Sofia Capital** is an Open Educational Resources (OER) and Open Knowledge project dedicated to demystifying the world of finance. Its mission is to combat financial misinformation and empower individuals with the knowledge they need to make informed investment decisions.
 
-### Our Mission
+### My Mission
 
-This project was born with a very clear idea: **to combat charlatans and false investment professionals** who, taking advantage of the lack of financial education, end up harming working people and robbing them of the opportunity to build a stable and prosperous economic life.
+This project was born with a clear purpose: to combat charlatans and false investment professionals who, taking advantage of the widespread lack of financial education, mislead people and prevent them from building a stable and prosperous economic life.
+
+Sofia Capital does not claim to be a professional voice, but rather a transparent and honest one. In a world full of misleading advice, my goal is to share accessible, well-intentioned knowledge that empowers everyday people.
 
 ### Transparency First
 
-I want to be completely transparent: I am not a financial analyst, I did not study economics, and I do not offer professional advice. Everything shared here comes from books, courses, and self-study. Like anyone, I can make mistakes, so if you see something that is not coherent or poorly formulated, I ask you to correct me.
+I want to be completely transparent: I am not a financial analyst, I did not study economics, and I do not offer professional advice. Everything shared here comes from books, courses, and self-study. Like anyone, I can make mistakes — so if you see something unclear or poorly formulated, I invite you to correct me.
 
-**Sofia Capital is not a course, nor does it pretend to be one.** It is a compilation of personal notes and materials that I felt the need to share. If this content can help you better understand finance, question unrealistic promises, and make more informed decisions, then the project fulfills its purpose.
+**Sofia Capital is not a course, nor does it pretend to be one.** It’s a compilation of personal notes and materials I felt the need to share. If this content helps you better understand finance, question unrealistic promises, and make more informed decisions, then the project fulfills its purpose.
 
 ---
 
 ## 📚 Project Structure
+
+> **Note:** The project is currently under development and not yet finalized, so the structure may change.
 
 This repository contains the content and configuration for the Sofia Capital Hugo website. The project is organized into educational modules:
 
@@ -61,7 +66,7 @@ This repository contains the content and configuration for the Sofia Capital Hug
 
 ## 🌐 Website
 
-Visit the live website: **[sofiacapital.org](https://sofiacapital.org)** *(or your actual domain)*
+Visit the live website: **[sofiacapital.org](https://sofiacapital.org)**
 
 ---
 
@@ -90,7 +95,7 @@ There are many ways to contribute to the project:
 
 ### Contribution Guidelines
 
-"Currently working on the guideline"
+I'm currently looking for an accessible and comfortable way for everyone to contribute, since making Forks and Pull Requests through GitHub is not a viable option for everyone.
 
 ---
 
