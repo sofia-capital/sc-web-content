@@ -117,6 +117,4 @@ For questions, suggestions, or contributions, please write an email to: info.sof
 
 **Made with ❤️ for financial education**
 
-*Help us combat financial misinformation and empower individuals with knowledge*
-
 </div>
