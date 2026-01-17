@@ -32,35 +32,22 @@ I want to be completely transparent: I am not a financial analyst, I did not stu
 
 ---
 
-## 📚 Project Structure
+## 📚 Repository Structure
 
 > **Note:** The project is currently under development and not yet finalized, so the structure may change.
 
-This repository contains the content and configuration for the Sofia Capital Hugo website. The project is organized into educational modules:
+This repository contains the public content for the Sofia Capital website. Here's the repository structure:
 
-### Module 1: Foundations
-- Master your personal finances
-- Rules of the Game
-- Market Perspectives
-- Sectors, Markets, and Hours
-- Financial Instruments
-- Tools and Vocabulary
-
-### Module 2: Platform Guide
-- Interactive Brokers (IBKR) platform overview
-- How to open and close positions
-- Currency exchange
-- Stock lending
-
-### Module 3: Quick Analysis
-- MVP philosophy applied to financial analysis
-- ROIBD concept (Return On Invested Brain Damage)
-- Practical case studies (Alphabet, Inditex)
-
-### Additional Content
-- Blog articles
-- Contribution guidelines
-- Multilingual support (English & Spanish)
+```
+sc-web-content/
+├── content/             # Website content (Markdown files)
+│   ├── en/              # English content (about, blog, docs)
+│   └── es/              # Spanish content (same structure)
+├── static/              # Static assets (images, JS, favicons)
+├── i18n/                # Internationalization files (en.yaml, es.yaml)
+├── LICENSE              # CC BY 4.0 License
+└── README.md            # This file
+```
 
 ---
 
