@@ -13,7 +13,7 @@ Sofía Capital es un proyecto de conocimiento abierto sobre finanzas, creado par
 
 No es un curso ni asesoramiento profesional, sino una recopilación estructurada de todo lo que he aprendido, y que siento la necesidad de compartir contigo.
 
-No te aburro más 🙂. Si quieres saber más sobre el proyecto y cómo puedes ayudar (si te interesa y te es posible), puedes seguir leyendo en la siguiente página:
+No te aburro más 🙂. Si quieres saber más sobre el proyecto y cómo puedes ayudar, puedes seguir leyendo en la siguiente página:
 
 [**Leer más sobre el proyecto**](/about/_index.md)
 

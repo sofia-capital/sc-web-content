@@ -37,4 +37,4 @@ There are many ways to contribute to the project:
 - Making a donation (even a small one!)
 
 You can read more details in the following blog article:  
-[**How can you contribute to the project?**](/blog/Como_contribuir_al_proyecto.md)
+[**How can you contribute to the project?**](/blog/How_can_you_contribute_to_the_project.md)
