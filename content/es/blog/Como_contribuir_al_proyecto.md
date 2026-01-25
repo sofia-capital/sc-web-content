@@ -17,7 +17,7 @@ Para mí, este es el punto más importante.
 
 Compartir puede parecer algo mínimo, pero en realidad marca la diferencia. 
  
-Si se lo pasas a tus amigos, familia o gente cercana, estarás ayudando a que el mensaje llegue mucho más lejos. Si cada persona lo hace, el alcance puede ser enorme."
+Si se lo pasas a tus amigos, familia o gente cercana, estarás ayudando a que el mensaje llegue mucho más lejos. Si cada persona lo hace, el alcance puede ser enorme.
 
 ## Edición de Contenido
 
@@ -33,7 +33,7 @@ No soy diseñador, ni tengo experiencia en marketing, así que cualquier ayuda e
 
 ## Apoyo Económico
 
-La ayuda económica también es valiosa y se agradece mucho. Sin embargo, la he puesto al final porque entiendo que no todos pueden donar, pero sí pueden colaborar de muchas otras formas igual de importantes.
+La ayuda económica también es valiosa y se agradece mucho.
 
 ## ¿Tienes otra idea?
 

@@ -17,7 +17,7 @@ For me, this is the most important point.
 
 Sharing may seem minimal, but it actually makes a difference. 
  
-If you pass it on to your friends, family, or close people, you will be helping the message reach much further. If everyone does it, the reach can be enormous."
+If you pass it on to your friends, family, or close people, you will be helping the message reach much further. If everyone does it, the reach can be enormous.
 
 ## Content Editing
 
@@ -33,7 +33,7 @@ I am not a designer, nor do I have experience in marketing, so any help in this 
 
 ## Financial Support
 
-Financial help is also valuable and greatly appreciated. However, I have put it last because I understand that not everyone can donate, but everyone can collaborate in many other equally important ways.
+Financial help is also valuable and greatly appreciated.
 
 ## Do you have another idea?
 
