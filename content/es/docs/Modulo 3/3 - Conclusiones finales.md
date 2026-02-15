@@ -3,7 +3,7 @@ title: "Conclusiones finales"
 slug: "conclusiones-finales"
 weight: 3
 prev: /docs/Modulo 3/2 - Inditex.md
-next: 
+next: /docs/Modulo 4/_index.md
 ---
 
 Como habrás notado, **Alphabet resulta más sencillo de analizar**, incluso considerando la demanda colectiva que involucra a un miembro de su equipo ejecutivo (sin implicaciones directas para la empresa). 

@@ -3,7 +3,7 @@ title: "Final Conclusions"
 slug: "final-conclusions"
 weight: 3
 prev: /docs/Module 3/2 - Inditex.md
-next: 
+next: /docs/Module 4/_index.md
 ---
 
 As you may have noticed, **Alphabet is easier to analyze**, even considering the class action lawsuit involving a member of its executive team (with no direct implications for the company). 
