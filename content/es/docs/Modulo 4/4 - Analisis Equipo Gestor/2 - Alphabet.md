@@ -3,7 +3,7 @@ title: "Alphabet"
 slug: "alphabet"
 weight: 2
 prev: /docs/Modulo 4/4 - Analisis Equipo Gestor/1 - Explicacion Equipo Gestor.md
-next: 
+next: /docs/Modulo 5/_index.md
 ---
 
 ## Equipo Directivo

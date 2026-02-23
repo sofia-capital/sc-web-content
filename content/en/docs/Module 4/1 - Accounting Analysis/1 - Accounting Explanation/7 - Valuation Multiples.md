@@ -10,13 +10,6 @@ next: /docs/Module 4/1 - Accounting Analysis/2 - Alphabet/_index.md
  Valuation multiples and valuation ratios are the same thing
 {{< /callout >}}
 
-{{< callout type="warning" >}}
- NOTE TO SELF: I need to change some of the content in this module; most of it was copy-paste.
-
- - Inverse formula: use a different value instead of 36.8, e.g. 23x
- - The last section on how to use them also needs a review.
-{{< /callout >}}
-
 ## What are valuation multiples?
 
 Valuation multiples are financial tools that help us understand whether the price of a company is fair.

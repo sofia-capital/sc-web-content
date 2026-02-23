@@ -10,13 +10,6 @@ next: /docs/Modulo 4/1 - Analisis Contabilidad/2 - Alphabet/_index.md
  Los múltiplos y ratios de valoración son lo mismo
 {{< /callout >}}
 
-{{< callout type="warning" >}}
- NOTA PARA MÍ: tengo que cambiar un poco el contenido de este módulo; la mayoría fue copia y pega. 
-
- - Fórmula inversa: en vez de 36,8 poner otro valor, 23x
- - El último punto, cómo utilizarlos, también necesita una revisión.
-{{< /callout >}}
-
 ## ¿Qué son los múltiplos de valoración?
 
 Los múltiplos de valoración son herramientas financieras que nos ayudan a entender si el precio de una empresa es justo.

@@ -3,7 +3,7 @@ title: "Alphabet"
 slug: "alphabet"
 weight: 2
 prev: /docs/Module 4/4 - Management Team Analysis/1 - Management Team Explanation.md
-next: 
+next: /docs/Module 5/_index.md
 ---
 
 ## Management team
