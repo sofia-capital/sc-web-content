@@ -3,7 +3,7 @@ title: "Situaciones Especiales"
 slug: "situaciones-especiales"
 weight: 12
 prev: /docs/Modulo 5/11 - Invertir Small Caps.md
-next: 
+next: /docs/Modulo 6/_index.md
 ---
 
 Una **situación especial** es un **evento inusual y transitorio** que permite comprar una acción en circunstancias con alta probabilidad de revalorización. 
