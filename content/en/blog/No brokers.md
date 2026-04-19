@@ -3,15 +3,15 @@ title: "No Brokers"
 date: 2026-01-24
 authors:
   - name: Sofia Capital
-    link: https://x.com/SofiaCapital_ES
-    image: https://pbs.twimg.com/profile_images/2003545552315711488/flAvYsJt_400x400.png
+    link: https://sofiacapital.org/
+    image: /static/favicon-96x96.png
 ---
 
 In this article I talk about the entities that, in my opinion, should not be used as an investment instrument. Throughout the text I call them “No Brokers”.
 
 <!--more-->
 
-I have opened an account on X (formerly Twitter) to have some presence on social media. This morning I searched what people post under the “stock investments” category and a huge number of tweets appeared promoting entities such as “Trade Republic” or “Revolut”: free shares, investing is supposedly super easy and stress-free… Many people fall into that trap and, honestly, inside I am burning with rage.
+On social networks, when you search topics such as “stock investments,” a huge number of posts promote entities such as “Trade Republic” or “Revolut”: free shares, investing is supposedly super easy and stress-free… Many people fall into that trap and, honestly, it fills me with rage.
 
 Although I will now go into detail point by point, I want to throw out an idea for you —the person reading this— to think about: these entities do not have permission to trade directly in the market and depend on companies known as “Market Makers”. In simple language: one more intermediary.
 

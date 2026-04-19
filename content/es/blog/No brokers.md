@@ -3,15 +3,15 @@ title: "No Brokers"
 date: 2026-01-24
 authors:
   - name: Sofia Capital
-    link: https://x.com/SofiaCapital_ES
-    image: https://pbs.twimg.com/profile_images/2003545552315711488/flAvYsJt_400x400.png
+    link: https://sofiacapital.org/
+    image: /static/favicon-96x96.png
 ---
 
 En este articulo hablo sobre las entidades que no pueden utilizarse como un instrumento de inversior, los llamo "No Brokers".
 
 <!--more-->
 
-He abierto una cuenta de X (Twitter), para tener cierta presencia en redes sociales, esta mañana busque sobre lo que publican las personas en la categoria de "acción inversiones", han aparecido muchisimos twitts promocionando a entidades como "Trade Republic" o "Revolut". Que si te regalan acciones, que si invertir es super facil y sin estres, muchos caen en la trampa y ahora mismo por tendro estoy ardiendo de ira. 
+En redes sociales, si buscas en categorías como "acción inversiones", aparecen muchísimas publicaciones promocionando a entidades como "Trade Republic" o "Revolut". Que si te regalan acciones, que si invertir es super facil y sin estres, muchos caen en la trampa y ahora mismo por tendro estoy ardiendo de ira.
 
 Aunque ahora detallare punto a punto, te lanzo a ti, lector, algo sobre lo que pensar, estas entidades no tienen permiso de negociar en el mercado directamente, y tienen que ayudarse de empresas conocidas como "Market Makers", a lenguaje simple un intermediario.
 

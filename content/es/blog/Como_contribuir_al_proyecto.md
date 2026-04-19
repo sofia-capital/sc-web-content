@@ -1,10 +1,10 @@
 ---
-title: "¿Como puedes contribuir al proyecto?"
+title: "¿Cómo puedes contribuir al proyecto?"
 date: 2025-12-17
 authors:
   - name: Sofia Capital
-    link: https://x.com/SofiaCapital_ES
-    image: https://pbs.twimg.com/profile_images/2003545552315711488/flAvYsJt_400x400.png
+    link: https://sofiacapital.org/
+    image: /static/favicon-96x96.png
 ---
 
 Existen varias maneras de contribuir al proyecto.
@@ -21,11 +21,13 @@ Si se lo pasas a tus amigos, familia o gente cercana, estarás ayudando a que el
 
 ## Edición de Contenido
 
-Podrías ayudar en la corrección, ampliación y traducción del contenido (ya sea texto o imagenes). 
+Podrías ayudar en la corrección, ampliación y traducción del contenido (ya sea texto o imágenes).
 
-{{< callout type="warning" >}}
- Actualmente estoy buscando una forma accesible y cómoda para que todos puedan contribuir, ya que hacer Forks y Pull Requests a través de GitHub no es una opción viable para todos.
-{{< /callout >}}
+Si tienes conocimientos de informática, haz un fork del proyecto en GitHub, realiza los cambios o mejoras que veas necesarias y crea una pull request.
+
+Si en cambio no tienes conocimientos de informática, puedes enviar la parte editada por correo.
+
+Dirección de correo electrónico: info.sofia.capital@gmail.com
 
 ## Marketing o diseño
 
@@ -41,4 +43,4 @@ Esto es todo lo que se me ocurre por el momento, pero si crees que puedes ayudar
 
 Estoy abierto a sugerencias y encantado de recibir cualquier tipo de aportación.
 
-Dirección de correo electronico: info.sofia.capital@gmail.com
+Dirección de correo electrónico: info.sofia.capital@gmail.com

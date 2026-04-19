@@ -3,8 +3,8 @@ title: "¿De donde salen las ganacias porcentuales?"
 date: 2025-11-16
 authors:
   - name: Sofia Capital
-    link: https://x.com/SofiaCapital_ES
-    image: https://pbs.twimg.com/profile_images/2003545552315711488/flAvYsJt_400x400.png
+    link: https://sofiacapital.org/
+    image: /static/favicon-96x96.png
 ---
 
 En este articulo describire los porcentajes de beneficios que aparecen en la pagina principal. 
